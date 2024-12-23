@@ -15,14 +15,6 @@ List of all projects in the repository:
 - [Nestjs Authentication](nest-auth)
 - [Express Authentication Boilerplate](express-auth-boilerplate)
 
-## Author
-
-Gabriel Tanner
-
-## Follow me
-
-[!email](tech.miner95@gmail.com)
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details
